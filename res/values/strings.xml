@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">mobilePlatform</string>
+    <string name="str_app_exception_exit">程序异常,软件即将退出!</string>
+
+    <!-- 下拉刷新 start-->
+     <string name="pull_to_refresh_pull_label">下拉刷新</string>
+    <string name="pull_to_refresh_release_label">松开后刷新</string>
+    <string name="pull_to_refresh_refreshing_label">刷新\u2026</string>
+    <string name="pull_to_refresh_footer_release_label">松开后加载</string>
+    <string name="pull_to_refresh_footer_pull_label">上拉加载更多</string>
+    <string name="pull_to_refresh_footer_refreshing_label">加载中\u2026</string>
+    <!-- 下拉刷新 end-->
+    
+</resources>

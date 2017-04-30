@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2013pt/!svn/ver/4509/shediaoApp/client/android/src/shediaoApp/res/anim
+END
+slide_left_in.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/2013pt/!svn/ver/3926/shediaoApp/client/android/src/shediaoApp/res/anim/slide_left_in.xml
+END
+slide_left_out.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/2013pt/!svn/ver/3926/shediaoApp/client/android/src/shediaoApp/res/anim/slide_left_out.xml
+END
+progressbar_spin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/2013pt/!svn/ver/3926/shediaoApp/client/android/src/shediaoApp/res/anim/progressbar_spin.xml
+END
+slide_right_in.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/2013pt/!svn/ver/3926/shediaoApp/client/android/src/shediaoApp/res/anim/slide_right_in.xml
+END
+slide_right_out.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/2013pt/!svn/ver/3926/shediaoApp/client/android/src/shediaoApp/res/anim/slide_right_out.xml
+END
+pop_to_left_top.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/2013pt/!svn/ver/4509/shediaoApp/client/android/src/shediaoApp/res/anim/pop_to_left_top.xml
+END
